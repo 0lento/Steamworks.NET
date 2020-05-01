@@ -1,0 +1,9 @@
+{
+  "name": "Steamworks.net.Editor",
+  "references": [
+    "Steamworks.net"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

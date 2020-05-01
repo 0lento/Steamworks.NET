@@ -1,0 +1,18 @@
+{
+  "name": "package.steamworks.net",
+  "displayName": "Steamworks.NET",
+  "version": "14.0.1-preview",
+  "description": "Steamworks Wrapper for Unity.",
+  "samples": [
+    {
+      "displayName": "Steamworks.NET Example",
+      "description": "This is a sample project for Steamworks.NET it is intended to show functionality and a potential usage scenario. It is heavily based upon the Steamworks Example 'SpaceWar' included with the Steamworks SDK. It currently only features the StatsAndAchievements class from SpaceWar. Check out the Steamworks.NET Test project for a playground showing you how you could call every Steam function.",
+      "path": "Samples~/Steamworks.NET-Example"
+    },
+    {
+      "displayName": "Steamworks.NET Test",
+      "description": "This is a sample project for Steamworks.NET it is intended to show functionality, act as documentation, and to test the functionality of Steamworks.NET. The idioms and usage patterns applied here may be flawed (such as the lack of proper error checking.) As such please learn from this project, but take care in implementing any aspects from it. Check out the Steamworks.NET Example project for a more realistic way of implementing Steamworks into your game.",
+      "path": "Samples~/Steamworks.NET-Test"
+    }
+  ]  
+}
